@@ -1,16 +1,16 @@
 # ghūl 'dotnet new' templates
 
-[![CI/CD](https://img.shields.io/github/actions/workflow/status/degory/ghul-templates/cicd.yml?branch=main)](https://github.com/degory/ghul-templates/actions?query=workflow%3ACICD)
+[![CI/CD](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-templates/cicd.yml?branch=main)](https://github.com/ghul-lang/ghul-templates/actions?query=workflow%3ACICD)
 [![NuGet version (ghul.templates)](https://img.shields.io/nuget/v/ghul.templates.svg)](https://www.nuget.org/packages/ghul.templates/)
-[![Release](https://img.shields.io/github/v/release/degory/ghul-templates?label=release)](https://github.com/degory/ghul-templates/releases)
-[![Release Date](https://img.shields.io/github/release-date/degory/ghul-templates)](https://github.com/degory/ghul-templates/releases) 
-[![Issues](https://img.shields.io/github/issues/degory/ghul-templates)](https://github.com/degory/ghul-templates/issues) 
-[![License](https://img.shields.io/github/license/degory/ghul-templates)](https://github.com/degory/ghul-templates/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/ghul-lang/ghul-templates?label=release)](https://github.com/ghul-lang/ghul-templates/releases)
+[![Release Date](https://img.shields.io/github/release-date/ghul-lang/ghul-templates)](https://github.com/ghul-lang/ghul-templates/releases) 
+[![Issues](https://img.shields.io/github/issues/ghul-lang/ghul-templates)](https://github.com/ghul-lang/ghul-templates/issues) 
+[![License](https://img.shields.io/github/license/ghul-lang/ghul-templates)](https://github.com/ghul-lang/ghul-templates/blob/main/LICENSE)
 [![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
 
 These are ['dotnet new' templates](https://docs.microsoft.com/en-us/dotnet/core/tools/custom-templates) for quick-starting a .NET 10.0 console application or class library project written in the [ghūl programming language](https://ghul.dev).
 
-Note that these templates do not include things like GitHub Actions workflows, development container config, Dependabot config, unit tests, etc. For a GitHub repository template that does include all those things, see the [ghūl repository template](https://github.com/degory/ghul-repository-template) repo.
+Note that these templates do not include things like GitHub Actions workflows, development container config, Dependabot config, unit tests, etc. For a GitHub repository template that does include all those things, see the [ghūl repository template](https://github.com/ghul-lang/ghul-repository-template) repo.
 
 ## Quick start
 

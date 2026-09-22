@@ -1,5 +1,5 @@
 {
-	"image": "ghcr.io/degory/ghul/devcontainer:dotnet",
+	"image": "ghcr.io/ghul-lang/ghul/devcontainer:dotnet",
 	"containerUser": "vscode",
 	"customizations": {
 		"vscode": {
